@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" width="100%" alt="Everton Silva Banner" />
+  <img src="everton-silva-linkedin-banner.png" width="100%" alt="Everton Silva Banner" />
 </div>
 
 <br>
