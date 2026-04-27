@@ -6,10 +6,6 @@
 
 <div align="center">
 
-# Everton Silva
-
-### Sistemas Digitais • Automação • Ferramentas Inteligentes
-
 Transformando operação, processo e execução em sistemas digitais.
 
 <br>
